@@ -1,0 +1,10 @@
+### .gitignore
+# Ignorar archivos y carpetas generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vscode/
+.idea/
+assets/codigo_qr.png
+assets/codigo_qr_configurado.png
